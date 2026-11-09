@@ -1,0 +1,9 @@
+maxapi
+manuscript-ocr
+openai
+langchain-openai
+langchain
+langchain-text-splitters
+langchain_community
+sentence-transformers
+faiss-cpu
